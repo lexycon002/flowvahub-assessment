@@ -26,7 +26,7 @@ This project implements a Rewards page using React and Supabase per the assessme
 	npm install
 	npm run dev
 
-5. Go to http://localhost:5173 to see the Rewards page.
+5. Go to https://flowvahub-assessment-virid.vercel.app/ to see the Rewards page.
 
 ### Demo mode
 
